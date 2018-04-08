@@ -1,2 +1,0 @@
-is test
-is test2
